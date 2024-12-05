@@ -1,0 +1,7 @@
+.centerButton {
+  /* 가운데 정렬을 해제합니다. */
+  display: block;
+  margin-top: -500px;
+  margin-left: 790px;
+  
+}
