@@ -14,5 +14,6 @@
   "description": "A React web project",
   "devDependencies": {
     "react-scripts": "^5.0.0"
-  }
+  },
+  "homepage": "/"
 }
